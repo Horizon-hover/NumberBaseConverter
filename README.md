@@ -29,27 +29,15 @@ Octal to Hexadecimal
 How to Run the Program
 Clone the Repository:
 
-sh
-
-Copy code
-
 git clone <repository-url>
 
 cd NumberBaseConverter
 
 Compile the Program:
 
-sh
-
-Copy code
-
 javac NumberBaseConverter.java
 
 Run the Program:
-
-sh
-
-Copy code
 
 java NumberBaseConverter
 
